@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |

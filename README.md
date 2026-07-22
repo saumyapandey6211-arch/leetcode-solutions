@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -29,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

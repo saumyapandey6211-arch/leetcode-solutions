@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
+| [1189-maximum-number-of-balloons](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->

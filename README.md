@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0100-same-tree) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

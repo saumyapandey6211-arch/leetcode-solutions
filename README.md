@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Matrix
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |

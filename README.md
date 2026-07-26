@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |

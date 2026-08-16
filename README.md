@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

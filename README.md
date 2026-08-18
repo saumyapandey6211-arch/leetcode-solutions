@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1189-maximum-number-of-balloons](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/saumyapandey6211-arch/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting
 |  |
 | ------- |
